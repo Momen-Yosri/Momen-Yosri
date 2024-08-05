@@ -30,7 +30,7 @@
 
 - ## Languages:
 
-    ![Dart](https://img.shields.io/badge/Dart%20-%2316367C.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%2307367C.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     
@@ -40,11 +40,19 @@
 
 - ## Mobile App Development:
 
-![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
-![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
-![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge)
-![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-%239966FF.svg?style=for-the-badge)
+![Object-oriented programming (OOP)](https://img.shields.io/badge/Object--oriented%20programming%20(OOP)-%2300C853.svg?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%233DDC84.svg?style=for-the-badge)
+![Firebase authentication](https://img.shields.io/badge/Firebase%20authentication-%23FF6F00.svg?style=for-the-badge)
+![Software life cycle](https://img.shields.io/badge/Software%20life%20cycle-%23007ACC.svg?style=for-the-badge)
+![SOLID principles](https://img.shields.io/badge/SOLID%20principles-%239966FF.svg?style=for-the-badge)
+![Agile methodology](https://img.shields.io/badge/Agile%20methodology-%2300C853.svg?style=for-the-badge)
+![Working with Trello](https://img.shields.io/badge/Working%20with%20Trello-%233DDC84.svg?style=for-the-badge)
+![Working with Adobe XD](https://img.shields.io/badge/Working%20with%20Adobe%20XD-%23FF6F00.svg?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=for-the-badge)
+![Working with Figma](https://img.shields.io/badge/Working%20with%20Figma-%239966FF.svg?style=for-the-badge)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-%2300C853.svg?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-%233DDC84.svg?style=for-the-badge)
+
 
 
 <br>
