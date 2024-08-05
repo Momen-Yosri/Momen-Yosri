@@ -45,13 +45,13 @@
 ![Firebase authentication](https://img.shields.io/badge/Firebase%20authentication-%23FF6F00.svg?style=for-the-badge)
 ![Software life cycle](https://img.shields.io/badge/Software%20life%20cycle-%23007ACC.svg?style=for-the-badge)
 ![SOLID principles](https://img.shields.io/badge/SOLID%20principles-%239966FF.svg?style=for-the-badge)
-![Agile methodology](https://img.shields.io/badge/Agile%20methodology-%2300C853.svg?style=for-the-badge)
-![Working with Trello](https://img.shields.io/badge/Working%20with%20Trello-%233DDC84.svg?style=for-the-badge)
-![Working with Adobe XD](https://img.shields.io/badge/Working%20with%20Adobe%20XD-%23FF6F00.svg?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=for-the-badge)
-![Working with Figma](https://img.shields.io/badge/Working%20with%20Figma-%239966FF.svg?style=for-the-badge)
-![Data Structure](https://img.shields.io/badge/Data%20Structure-%2300C853.svg?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-%233DDC84.svg?style=for-the-badge)
+![Agile methodology](https://img.shields.io/badge/Agile%20methodology-%23E91E63.svg?style=for-the-badge)
+![Working with Trello](https://img.shields.io/badge/Working%20with%20Trello-%23FFC107.svg?style=for-the-badge)
+![Working with Adobe XD](https://img.shields.io/badge/Working%20with%20Adobe%20XD-%2300BCD4.svg?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-%23FF5722.svg?style=for-the-badge)
+![Working with Figma](https://img.shields.io/badge/Working%20with%20Figma-%239C27B0.svg?style=for-the-badge)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-%23FFEB3B.svg?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
 
 
 
