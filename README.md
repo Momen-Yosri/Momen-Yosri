@@ -44,18 +44,18 @@
 
 - ## Mobile App Development:
 
-![Object-oriented programming (OOP)](https://img.shields.io/badge/Object--oriented%20programming%20(OOP)-%2300C853.svg?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-%233DDC84.svg?style=for-the-badge)
-![Firebase authentication](https://img.shields.io/badge/Firebase%20authentication-%23FF6F00.svg?style=for-the-badge)
-![Software life cycle](https://img.shields.io/badge/Software%20life%20cycle-%23007ACC.svg?style=for-the-badge)
-![SOLID principles](https://img.shields.io/badge/SOLID%20principles-%239966FF.svg?style=for-the-badge)
-![Agile methodology](https://img.shields.io/badge/Agile%20methodology-%23E91E63.svg?style=for-the-badge)
-![Working with Trello](https://img.shields.io/badge/Working%20with%20Trello-%23FFC107.svg?style=for-the-badge)
-![Working with Adobe XD](https://img.shields.io/badge/Working%20with%20Adobe%20XD-%2300BCD4.svg?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-%23FF5722.svg?style=for-the-badge)
-![Working with Figma](https://img.shields.io/badge/Working%20with%20Figma-%239C27B0.svg?style=for-the-badge)
-![Data Structure](https://img.shields.io/badge/Data%20Structure-%23FFEB3B.svg?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Object-oriented programming (OOP)" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Authentication" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Software Life Cycle" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="SOLID principles" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" alt="Agile Methodology" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Working with Trello" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Working with Adobe XD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="APIs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Working with Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Data Structure" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Algorithms" width="40" height="40"/>
 
 
 
