@@ -70,12 +70,6 @@
 - ## Tools & Utilities:
 
 <p align="left">
-![GetX](https://img.shields.io/badge/GetX-%233DDC84.svg?style=for-the-badge)
-![Provider authentication](https://img.shields.io/badge/Provider%20authentication-%23FF6F00.svg?style=for-the-badge)
-![BloC](https://img.shields.io/badge/BloC-%23007ACC.svg?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-%23007ACC.svg?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-%23007ACC.svg?style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23007ACC.svg?style=for-the-badge)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
