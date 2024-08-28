@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center"><b>Hi , I'm Mo'men Yosri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -28,7 +29,7 @@
 
 <p align="center">
 
-- ## Languages:
+- ## Programming Languages:
 
     ![Dart](https://img.shields.io/badge/Dart%20-%2307367C.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -71,7 +72,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Malak-Alaabiad">
+<a href="https://github.com/Momen-Yosri">
   <img src="https://github-readme-stats.vercel.app/api?username=Momen-Yosri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Momen-Yosri&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
@@ -94,12 +95,15 @@
 
 <li>
 <a href="https://www.linkedin.com/in/momen-yosri" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Mo'men Yosri-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Mo'men Yosri-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
-
+<li>
+<a href="https://github.com/Momen-Yosri" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Mo'men Yosri-%2300acee.svg?color=100000&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
 <li>
 <a href="mailto:momen.yosri@gmail.com" target="_blank">
@@ -113,3 +117,5 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Momen-Yosri&label=Profile%20views&color=0e75b6&style=flat" alt="Momen-Yosri" /> </p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
