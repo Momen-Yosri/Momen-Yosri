@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Mo'men Yosri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software-Engineer;A+Computer+Science+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software-Engineer;A+Computer+Science+Student+at+FCAI-CU"></a>
 </p>
 
 
@@ -17,10 +17,10 @@
 
 <br>
 
-- A second year student at faculty of Computers and Artificial Intelligence - Cairo University FCAI-CU
-- Software Engineer
-- Flutter Developer
-- Personal website [link](https://momen-yosri.github.io/my-portfolio/)
+- A second year student at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
+- Software Engineer.
+- Flutter Developer.
+- Personal website [link](https://momen-yosri.github.io/my-portfolio/).
 
 <br><br>
 
@@ -31,9 +31,12 @@
 
 - ## Programming Languages:
 
-    ![Dart](https://img.shields.io/badge/Dart%20-%2307367C.svg?style=for-the-badge&logo=dart&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+</p>
     
   
 
@@ -101,7 +104,7 @@
 
 <li>
 <a href="https://github.com/Momen-Yosri" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Mo'men Yosri-%2300acee.svg?color=100000&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/GitHub:  Mo'men Yosri-%2300acee.svg?color=100000&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
