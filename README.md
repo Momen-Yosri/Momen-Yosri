@@ -57,6 +57,14 @@
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-%23FFEB3B.svg?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Authentication" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Working with Trello" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Working with Adobe XD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="APIs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Working with Figma" width="40" height="40"/>
+</p>
 
 
 <br>
