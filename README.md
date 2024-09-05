@@ -35,7 +35,7 @@
 
 - ## Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,csharp,dart"  alt=""/><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,c#,dart"  alt=""/><br>
   
 
 <br>   
@@ -56,7 +56,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
 
 <br/>    
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,trello,graphql" alt="" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman" alt="" />
     <br/>
 
 
