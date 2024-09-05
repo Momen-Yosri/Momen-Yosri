@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Mo'men's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <h1 align="center"><b>Hi , I'm Mo'men Yosri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
