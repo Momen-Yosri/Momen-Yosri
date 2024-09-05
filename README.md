@@ -154,6 +154,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Momen-Yosri&label=Profile%20views&color=0e75b6&style=flat" alt="Momen-Yosri" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h4 align="center">
   <a href="https://github.com/Momen-Yosri?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
