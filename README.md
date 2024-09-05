@@ -67,6 +67,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Working with Trello" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="APIs" width="40" height="40"/>
 </p>
+<br/>    
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman" alt="" />
+    <br/>
 
 
 <br>
