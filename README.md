@@ -35,7 +35,7 @@
 
 - ## Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c#,dart"  alt=""/><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,dart"  alt=""/><br>
   
 
 <br>   
