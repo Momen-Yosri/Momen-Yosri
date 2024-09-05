@@ -35,15 +35,7 @@
 
 - ## Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=,cpp,python"  alt=""/><br>
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-</p>
-    
+<img src="https://skillicons.dev/icons?i=cpp,python,csharp,dart"  alt=""/><br>
   
 
 <br>   
@@ -63,14 +55,8 @@
 ![Data Structure](https://img.shields.io/badge/Data%20Structure-%23FFEB3B.svg?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Authentication" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Working with Trello" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="APIs" width="40" height="40"/>
-</p>
 <br/>    
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman" alt="" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,trello,graphql" alt="" />
     <br/>
 
 
