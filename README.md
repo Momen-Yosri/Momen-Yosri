@@ -145,5 +145,8 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
 </p>
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Momen-Yosri&label=Profile%20views&color=0e75b6&style=flat" alt="Momen-Yosri" /> </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
