@@ -10,10 +10,12 @@
 
 <br>
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 
 
-## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> **About me**
+
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b>**About Me..**</b>
 
 
 
@@ -21,10 +23,18 @@
 
 <br>
 
-- A second year student at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
-- Software Engineer.
-- Flutter Developer.
+- :school: `A second year student` at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
+- 🔭 Software Engineer.
+- 🌱 Flutter Developer.
+- 📫 How to reach me **momen.yosri@gmail.com**
 - Personal website [link](https://momen-yosri.github.io/my-portfolio/).
+- :nerd_face: A passionate and skilled developer with a solid foundation in Flutter, I possess proficiency in several
+programming languages and a strong familiarity with major AI and Data Science frameworks. My
+technical acumen is complemented by robust leadership, teamwork, and communication abilities,
+honed through active involvement in the Student Union. My career experiences include a lot of roles,
+each contributing to a well-rounded professional skill set. Driven by a commitment to continuous
+learning, I am constantly expanding my expertise in new technologies and methodologies, with a focus
+on leveraging technology to create innovative solutions.</p>
 
 <br><br>
 
@@ -33,14 +43,14 @@
 
 <p align="center">
 
-- ## Programming Languages:
+- ## 🛠 Programming Languages:
 
 <img src="https://skillicons.dev/icons?i=cpp,python,dart"  alt=""/><br>
   
 
 <br>   
 
-- ## Mobile App Development:
+- ## 🛠 Mobile App Development:
 
 ![Object-oriented programming (OOP)](https://img.shields.io/badge/Object--oriented%20programming%20(OOP)-%2300C853.svg?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-%233DDC84.svg?style=for-the-badge)
@@ -62,7 +72,7 @@
 
 <br>
 
-- ## Tools & Utilities:
+- ## 🛠 Tools & Utilities:
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
@@ -100,10 +110,14 @@
 
 -----
 
-<br>
+<br><br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+
+📩 Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -129,6 +143,11 @@
 
 </ul>
 </div>
+  <img src="./pacman.gif" width=100%>
+</div>
+
+</ul>
+</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,9 +165,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Momen-Yosri&label=Profile%20views&color=0e75b6&style=flat" alt="Momen-Yosri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Momen-Yosri&label=Profile%20views&color=0e75b6&style=flat" alt="Momen-Yosri" />
+<img src="https://img.shields.io/github/followers/Momen-Yosri?label=Followers" alt=Momen-Yosri" />
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h4 align="center">
   <a href="https://github.com/Momen-Yosri?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 </h4>
