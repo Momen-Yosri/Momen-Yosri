@@ -75,6 +75,14 @@
 
 <br>
 
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Streak**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momen-Yosri&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<br>
+
 <div align="center">
   <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Momen-Yosri&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15&theme=darkhub"/>
 </div>
