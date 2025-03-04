@@ -53,6 +53,19 @@
   <img src="https://img.shields.io/badge/SOLID-%239966FF.svg?style=for-the-badge" alt="SOLID principles"/>
   <img src="https://img.shields.io/badge/Agile-%23E91E63.svg?style=for-the-badge" alt="Agile methodology"/>
   <img src="https://img.shields.io/badge/REST_APIs-%23FF5722.svg?style=for-the-badge" alt="APIs"/>
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Bloc-%23009688.svg?style=for-the-badge&logo=bloc&logoColor=white" alt="Bloc"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%231980F0.svg?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Provider-%234285F4.svg?style=for-the-badge" alt="Provider"/>
+  <img src="https://img.shields.io/badge/GetX-%23FF4081.svg?style=for-the-badge" alt="GetX"/>
+  <img src="https://img.shields.io/badge/SQL-%234285F4.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-%23FF6F00.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
+
+  <img src="https://img.shields.io/badge/CI/CD-%23007EC6.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  
+ 
+  <img src="https://img.shields.io/badge/Competitive%20Programming-%2300A6FF.svg?style=for-the-badge" alt="Competitive Programming"/>
+
 </p>
 
 ### 🛠️ Tools & Utilities
@@ -63,6 +76,18 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
   <img src="https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+ 
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Xcode-%230000F5.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Fastlane-%23FFC107.svg?style=for-the-badge&logo=fastlane&logoColor=black" alt="Fastlane"/>
 </p>
 
 <br>
