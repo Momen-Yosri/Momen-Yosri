@@ -20,13 +20,15 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> **About Me**
 
 - 🎓 **Second-year Computer Science Student** at the Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)  
-- 💻 **Software Engineer** with a strong focus on **mobile development**  
-- 📱 **Flutter Developer** with hands-on experience in building scalable and high-performance applications  
-- 🚀 Passionate about leveraging **technology to solve real-world problems** and create impactful solutions  
-- 🌟 **Active member of the Student Union**, honing leadership, collaboration, and teamwork skills  
-- 📚 **Lifelong learner**, continuously exploring new technologies and expanding my expertise in **backend development, competitive programming, and data analytics**  
+- 💻 **Software Engineer & Flutter Developer**, passionate about building high-performance, scalable mobile applications  
+- 📱 Experienced in **Flutter, Firebase, Clean Architecture, and State Management (Bloc, Cubit, Provider)**  
+- 🚀 Currently exploring **backend development** to enhance full-stack capabilities  
+- 🏆 Aspiring **competitive programmer**, working towards **ICPC-level proficiency**  
+- 🌟 **Vice Head of Mobile Development at IEEE Cairo University**, mentoring and leading Flutter developers  
+- 🎤 **Active in student activities**, leading and organizing Flutter-related events and workshops  
+- 📊 Currently learning **Power BI** to expand data analytics skills  
 - 🔗 **Portfolio:** [momen-yosri.github.io/my-portfolio](https://momen-yosri.github.io/my-portfolio)  
-- 📫 **Reach me at:** [momen.yosri@gmail.com](mailto:momen.yosri@gmail.com) 
+- 📫 **Reach me at:** [momen.yosri@gmail.com](mailto:momen.yosri@gmail.com)  
 
 <br>
 
