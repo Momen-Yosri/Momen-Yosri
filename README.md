@@ -83,9 +83,7 @@
 
 <br>
 
-<div align="center">
-  <img height="150px" src="https://github-profile-trophy.vercel.app/?username=Momen-Yosri&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15&theme=darkhub"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Momen-Yosri&theme=onestar&row=2&column=8&margin-w=20&margin-h=10" style="display:block; margin:0 auto;" alt="" align = "center">
 
 <br>
 
