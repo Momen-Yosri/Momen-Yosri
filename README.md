@@ -43,7 +43,7 @@
 ### 📱 Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman" alt="Mobile Development"/>
+  <img src="./flutter-icons.svg" alt="Flutter Development Stack">
 </p>
 
 <p align="center">
