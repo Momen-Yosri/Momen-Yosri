@@ -3,7 +3,9 @@
     text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
       font-size: 10px;
-      fill: #333;
+      font-weight: bold;
+      fill: #0468d7;
+      text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.2);
     }
     rect {
       rx: 10;
@@ -68,7 +70,7 @@
     <circle cx="35" cy="25" r="3" fill="white" />
   </g>
   
-  <!-- Labels -->
+  <!-- Labels with text highlights -->
   <text x="35" y="75" text-anchor="middle">Flutter</text>
   <text x="95" y="75" text-anchor="middle">Dart</text>
   <text x="155" y="75" text-anchor="middle">Firebase</text>
