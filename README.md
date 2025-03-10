@@ -37,7 +37,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,java" alt="Programming Languages"/>
 </p>
 
 ### 📱 Mobile Development
